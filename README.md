@@ -1,3 +1,3 @@
 # soi-zarzadzanie-pamiecia
 
-Rozwiązanie bez podatności na przepełnienie bufora.
+Rozwiązanie bez podatności przepełnienia bufora.
